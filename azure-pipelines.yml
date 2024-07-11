@@ -9,7 +9,7 @@ trigger:
 variables:
 
   # Azure Resource Manager connection created during pipeline creation
-  azureSubscription: 'e62639d3-53d2-4f84-af98-9a16929c2d46'
+  azureSubscription: '265de48b-a7d9-48bc-a9bf-06b8814d0e08'
 
   # Web app name
   webAppName: 'master-waayu-app'
